@@ -1,0 +1,19 @@
+#col1
+{
+    background-color: #ff6600;
+    height: 200px; /* il faut le mettre sinon il ne sera pas visible car il est vide*/
+}
+#white
+{
+  
+  font-size: 100px;
+        text-align: center;
+        height: 200px;
+        margin-top: 70px;
+}
+#col2
+{
+
+    background-color: #4c4c4c;
+    height: 200px;
+}
